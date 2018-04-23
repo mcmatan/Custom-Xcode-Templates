@@ -7,4 +7,4 @@ Clone to: /Library/Developer/Xcode
 
 Notice new custom templates!
 
-Eeasy generation of classed for the MVVM design pattern.
+Easy generation of classed for the MVVM design pattern.
