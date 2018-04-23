@@ -3,8 +3,8 @@
 
 # How to:
 
-Clone this repo to: /Library/Developer/Xcode
+Clone to: /Library/Developer/Xcode
 
-After that you will notice new custom templates!
+Notice new custom templates!
 
 Eeasy generation of classed for the MVVM design pattern.
