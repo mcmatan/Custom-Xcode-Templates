@@ -24,6 +24,7 @@ class ___VARIABLE_productName:identifier___View: View, ___VARIABLE_productName:i
         self.addSubviews()
         self.layoutViews()
         self.styleViews()
+        self.bindView()
     }
     
     required init?(coder aDecoder: NSCoder) {
@@ -39,6 +40,10 @@ class ___VARIABLE_productName:identifier___View: View, ___VARIABLE_productName:i
     }
     
     private func styleViews() {
+        
+    }
+    
+    private func bindView() {
         
     }
     

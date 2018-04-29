@@ -35,6 +35,7 @@ class ___VARIABLE_productName:identifier___VC: ViewController, IScreen, ___VARIA
         self.addSubviews()
         self.layoutViews()
         self.styleViews()
+        self.bindView()
     }
     
     private func addSubviews() {
@@ -46,6 +47,10 @@ class ___VARIABLE_productName:identifier___VC: ViewController, IScreen, ___VARIA
     }
     
     private func styleViews() {
+        
+    }
+    
+    private func bindView() {
         
     }
     
