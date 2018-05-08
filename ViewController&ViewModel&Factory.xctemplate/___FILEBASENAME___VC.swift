@@ -38,6 +38,12 @@ class ___VARIABLE_productName:identifier___VC: ViewController, IScreen, ___VARIA
         self.bindView()
     }
     
+    public override func subscribe() {
+    }
+    
+    public override func requestsOnLoad() {
+    }
+    
     private func addSubviews() {
         
     }
